@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade020)](https://github.com/Andrade020/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade020&layout=compact)](https://github.com/Andrade020&layout=compact/github-readme-stats)
 
 <!--
 **Andrade020/Andrade020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
