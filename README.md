@@ -1,4 +1,4 @@
-![Minha Imagem](img1.png)
+![Minha Imagem](img2.png)
 
 
 - 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
