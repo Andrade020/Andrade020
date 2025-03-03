@@ -1,6 +1,32 @@
 ## Hi, I'm Lucas! 👋  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade020&layout=compact&hide=jupyter%20notebook&langs_count=80)](https://github.com/Andrade020)  
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5521975056123" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:lucas_r_andrade@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-rafael-de-andrade/)  
 - 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
 - 🔭 I’m currently working in the **finance industry** as a freelance consultant.  
