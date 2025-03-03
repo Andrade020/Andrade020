@@ -1,12 +1,5 @@
 ## Hi, I'm Lucas! 👋  
 
-###
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
-</div>
-
- 
 - 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
 - 🔭 I’m currently working in the **finance industry** as a freelance consultant.  
 - 👯 I’m looking to collaborate on **automation, time series forecasting, causal inference, and machine learning**.  
@@ -55,11 +48,6 @@ My favorite tools:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
-
-###
-
-
 <!--
 **Andrade020/Andrade020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -81,7 +69,7 @@ Here are some ideas to get you started:
 </picture>
 
 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
 </div>
 
