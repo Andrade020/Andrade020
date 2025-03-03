@@ -5,13 +5,6 @@
   <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
