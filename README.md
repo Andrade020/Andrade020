@@ -1,4 +1,3 @@
-## Hi, I'm Lucas! 👋  
 ![Minha Imagem](img1.png)
 
 
