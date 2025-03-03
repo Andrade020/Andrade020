@@ -1,5 +1,31 @@
 ## Hi, I'm Lucas! 👋  
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
+</div>
+
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5521975056123" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:lucas_r_andrade@outlook.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-rafael-de-andrade/)  
+- 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
+- 🔭 I’m currently working in the **finance industry** as a freelance consultant.  
+- 👯 I’m looking to collaborate on **automation, social welfare, time series forecasting, causal inference, and machine learning**.  
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -26,33 +52,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
-</div>
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/5521975056123" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:lucas_r_andrade@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-rafael-de-andrade/)  
-- 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
-- 🔭 I’m currently working in the **finance industry** as a freelance consultant.  
-- 👯 I’m looking to collaborate on **automation, social welfare, time series forecasting, causal inference, and machine learning**.  
 
 <!--
 **Andrade020/Andrade020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
