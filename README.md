@@ -1,5 +1,5 @@
 ## Hi, I'm Lucas! 👋  
-![Minha Imagem](https://raw.githubusercontent.com/Andrade020/Andrade020/main/assets/img1.png)
+![Minha Imagem](img1.png)
 
 
 - 🌱 I’m currently studying **Economics and Applied Mathematics**. I aim to leverage my software skills to advance economic methods and contribute to society.  
