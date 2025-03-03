@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
 </div>
 
