@@ -77,5 +77,6 @@ Here are some ideas to get you started:
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade020&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/Andrade020)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrade020&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/Andrade020)
 
