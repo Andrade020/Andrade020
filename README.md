@@ -1,5 +1,3 @@
-![Minha Imagem](img2.png)
-
 ### Lucas Rafael de Andrade
 
 Data Engineer / Risk Analytics at **Porto Real Asset** (a credit-focused asset manager, Rio de Janeiro/São Paulo), where I built the data infrastructure for risk management in Credit Rights Investment Funds (FIDCs) — Airflow pipelines, a file-based data lake, credit-risk ML models with SHAP explainability, and fixed-income pricing calculators.
@@ -11,9 +9,6 @@ Full case studies, open-source projects, and research: **[andrade020.github.io](
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/Andrade020" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
   </a>
   <a href="mailto:lucas_r_andrade@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="email"  />
