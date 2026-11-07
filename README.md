@@ -15,9 +15,10 @@ Full case studies, open-source projects, and research: **[andrade020.github.io](
 | [Finance](https://github.com/Andrade020/Finance) | Balanceamento de carteira da B3 com Black-Litterman, análise de mercado e simulações |
 | [markets-rewriting-lean](https://github.com/Andrade020/markets-rewriting-lean) | Mecanização em Lean 4 de "Markets as Rewriting Systems" (Lema de Newman) |
 | [Summanus](https://github.com/Andrade020/Summanus) | App desktop em Rust para conversar com modelos GGUF locais |
+| [MyCSTheories](https://github.com/Andrade020/MyCSTheories) | Teoria da computação e computação numérica, tudo testado: Máquina de Turing, autômatos, soma estável, precificação (BS, binomial, Monte Carlo) |
 | [Leap](https://github.com/Andrade020/Leap) | Navegação estilo NeoVim para o Windows (C#/WPF), com [release para download](https://github.com/Andrade020/Leap/releases) |
 
-Trechos de código curtos e testados em [gists](https://gist.github.com/Andrade020): [Black-Litterman](https://gist.github.com/Andrade020/dce0b1e2ef6d9cc2b6ad469574b752d9), [GARCH(1,1)](https://gist.github.com/Andrade020/de0b942ada20436d8c8691c84254ee6e) e [VaR/ES](https://gist.github.com/Andrade020/50bb3c617667b69e2d42ae91e2abb51b).
+Trechos de código curtos e testados em [gists](https://gist.github.com/Andrade020): [Black-Litterman](https://gist.github.com/Andrade020/dce0b1e2ef6d9cc2b6ad469574b752d9), [GARCH(1,1)](https://gist.github.com/Andrade020/de0b942ada20436d8c8691c84254ee6e), [VaR/ES](https://gist.github.com/Andrade020/50bb3c617667b69e2d42ae91e2abb51b), [soma de Kahan e variância de Welford](https://gist.github.com/Andrade020/979be8de6aa337cd43b9198381aa213c), [convergência na precificação de opções](https://gist.github.com/Andrade020/769b3bb83b5fb7fe2e0bca21a124b413) e [Máquina de Turing](https://gist.github.com/Andrade020/d7f8ea29c440b9dd9c93ca63802ca33a).
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
