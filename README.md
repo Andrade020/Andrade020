@@ -6,6 +6,19 @@ Co-author of ["Parameter estimation for spatiotemporal Poisson processes with mi
 
 Full case studies, open-source projects, and research: **[andrade020.github.io](https://andrade020.github.io)**
 
+### Projetos em destaque
+
+| Projeto | O que é |
+| --- | --- |
+| [kibitz](https://github.com/Andrade020/kibitz) | IA de xadrez que pensa em voz alta: joga contra você e depois comenta a partida com setas e conceitos (Python, Stockfish, LLM) |
+| [pcmci-lstm-regularization](https://github.com/Andrade020/pcmci-lstm-regularization) | Quando grafos causais (PCMCI) melhoram previsões com LSTM, com garantias PAC-Bayes |
+| [Finance](https://github.com/Andrade020/Finance) | Balanceamento de carteira da B3 com Black-Litterman, análise de mercado e simulações |
+| [markets-rewriting-lean](https://github.com/Andrade020/markets-rewriting-lean) | Mecanização em Lean 4 de "Markets as Rewriting Systems" (Lema de Newman) |
+| [Summanus](https://github.com/Andrade020/Summanus) | App desktop em Rust para conversar com modelos GGUF locais |
+| [Leap](https://github.com/Andrade020/Leap) | Navegação estilo NeoVim para o Windows (C#/WPF), com [release para download](https://github.com/Andrade020/Leap/releases) |
+
+Trechos de código curtos e testados em [gists](https://gist.github.com/Andrade020): [Black-Litterman](https://gist.github.com/Andrade020/dce0b1e2ef6d9cc2b6ad469574b752d9), [GARCH(1,1)](https://gist.github.com/Andrade020/de0b942ada20436d8c8691c84254ee6e) e [VaR/ES](https://gist.github.com/Andrade020/50bb3c617667b69e2d42ae91e2abb51b).
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-rafael-de-andrade/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -43,7 +56,3 @@ Core stack:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andrade020/Andrade020/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Andrade020/Andrade020/output/github-snake.svg" />
 </picture>
-
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Andrade020/count.svg?"  />
-</div>
